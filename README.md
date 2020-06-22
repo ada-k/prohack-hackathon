@@ -1,6 +1,8 @@
 # prohack-hackathon
 a competition on prediction of the well being if space beings(or aliens:) ) and optimal energy allocation. A blend of regression and linear programming in operations research.
 
+
+
 · To understand what makes us better off.
 
 Our elders used the composite index to measure our well-being performance, but this knowledge has disappeared in the sands of time.
@@ -21,13 +23,9 @@ and
 
 Think of our galaxies as your “countries” (or how you call them??) and our population as citizens. We have similar healthcare and wellbeing characteristic as you, Hooomans”
 
-“We are sending all the data to you right now. Let the data be with you, Hoomans… … …”
-
-Transmission suddenly ends. You put your notebook and pencil away and start thinking. You really want to help this species optimize their well-being. You open up Python and upload the dataset from the narrowband radio signal receiver. It will be another great day at the observatory today.
 
 ————
 
-* probably intergalactic species meant to say “humans” here but we will never know for sure
 Description Data Recieved
 
 The solutions are evaluated on two criteria: predicted future Index values and allocated energy from a newly discovered star
