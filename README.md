@@ -1,25 +1,21 @@
-# prohack-hackathon
+## prohack-hackathon
 a competition on prediction of the well being if space beings(or aliens:) ) and optimal energy allocation. A blend of regression and linear programming in operations research.
 
 
+### Notes:
+* To understand what makes us better off:
 
-· To understand what makes us better off.
+  * Our elders used the composite index to measure our well-being performance, but this knowledge has disappeared in the sands of time.
 
-Our elders used the composite index to measure our well-being performance, but this knowledge has disappeared in the sands of time.
+  * Use our data and train your model to predict this index with the highest possible level of certainty.
 
-Use our data and train your model to predict this index with the highest possible level of certainty.
 
-· To achieve the highest possible level of well-being through optimized allocation of additional energy
+* To achieve the highest possible level of well-being through optimized allocation of additional energy, We have discovered the star of an unusually high energy of 50000 zillion DSML.
+We have agreed between ourselves that:
 
-We have discovered the star of an unusually high energy of 50000 zillion DSML.
+  * no one galaxy will consume more than 100 zillion DSML 
 
-We have agreed between ourselves that 
-
-· no one galaxy will consume more than 100 zillion DSML 
-
-and 
-
-· at least 10% of the total energy will be consumed by galaxies in need with existence expectancy index below 0,7.
+  * at least 10% of the total energy will be consumed by galaxies in need with existence expectancy index below 0,7.
 
 Think of our galaxies as your “countries” (or how you call them??) and our population as citizens. We have similar healthcare and wellbeing characteristic as you, Hooomans”
 
